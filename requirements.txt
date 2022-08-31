@@ -1,1 +1,10 @@
-Flask>=2.0,<=2.1.1
+{
+  "connectionString": "mysql flexibleserverdb --host server491829892.mysql.database.azure.com --user longingoatmeal9 --password=4Ubrtd88hgU5YsHCJ9Ls9Q",
+  "databaseName": "flexibleserverdb",
+  "firewallName": "FirewallIPAddress_2022-8-31_9-19-58",
+  "host": "server491829892.mysql.database.azure.com",
+  "id": "/subscriptions/f6d1ce77-c269-4bd4-84b3-8e623ee235cf/resourceGroups/Armatrics/providers/Microsoft.DBforMySQL/flexibleServers/server491829892",
+  "location": "East Asia",
+  "password": "4Ubrtd88hgU5YsHCJ9Ls9Q",
+  "resourceGroup": "Armatrics",
+  "skuname": "Standard_B1ms",
